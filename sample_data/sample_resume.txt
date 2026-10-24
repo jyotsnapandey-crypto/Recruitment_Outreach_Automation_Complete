@@ -1,0 +1,1 @@
+Software developer with experience building Python applications, Flask REST APIs, SQL database queries, and unit tests. Familiar with Git and collaborative development.
